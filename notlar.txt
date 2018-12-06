@@ -1,0 +1,6 @@
+
+
+Kodlar:C:\xampp\htdocs
+
+Öncesinde http://localhost:8050/phpmyadmin/ adreste yeni db oluþturulur.db iken sql içe aktarma yapýlýr.
+sql dosyasýný bu adrese içe aktar denir.
